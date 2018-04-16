@@ -21,5 +21,8 @@
   "dependencies": {
     "koa-send": "^4.1.3",
     "koa2": "^2.0.0-alpha.7"
+  },
+  "devDependencies": {
+    "vows": "^0.8.1"
   }
 }
